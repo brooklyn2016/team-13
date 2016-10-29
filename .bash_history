@@ -596,3 +596,39 @@ more styles
 cd ..
 cd views/login/
 ps -a
+killall -9 node
+node app
+cd public/
+ls
+ls -l
+ls css -l
+chmod 600 *.png
+ls -l
+cd ..
+node app
+cd views/
+ls
+vim AllCountriesReport.html 
+cd ..
+node app
+cd views/
+vim AllCountriesReport.html 
+cd ..
+node app
+cd views/
+ls
+cp AllCountriesReport.html ByCountryReport.html
+vim ByCountryReport.html 
+cd ..
+vim app.js 
+ps -a
+cd ..
+node app
+ls
+cd views
+ls
+vim AllCountriesReport.html 
+cd ..
+node app
+bg
+ps
