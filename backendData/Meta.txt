@@ -1,0 +1,5 @@
+{_id:"org","labels":[{"lang":"en","text":"Organization"}, {"lang":"fr", "text":"Organisation"},{"lang":"hi","text":"संगठन"}]}
+{_id:"com","labels":[{"lang":"en","text":"Community"},{"lang":"fr","text":"Communauté"},{"lang":"hi","text":"समुदाय"}]}
+{_id:"dist","labels":[{"lang":"en","text":"District"},{"lang":"fr","text":"District"},{"lang":"hi","text":"जिला"}]}
+{_id:"ep","labels":[{"lang":"en","text":"Estimated Population"},{"lang":"fr","text":"Population Estimée"},{"lang":"hi","text":"अनुमानित जनसंख्या"}]}
+{_id:"dt","labels":[{"lang":"en","text":"Date"},{"lang":"fr","text":"date"},{"lang":"hi","text":"तारीख"}]}
