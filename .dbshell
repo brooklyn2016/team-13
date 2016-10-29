@@ -1,0 +1,31 @@
+users.find({},{})
+users.find({},{});
+users.find({});;
+users.find({})
+user.find({})
+db.users.find({})
+db.users
+console.log(db.users)
+Console.log
+db.users.find({})
+show collections
+db.users.find({})
+use admin;
+db.addUser('admin','123456');
+use admin
+db.addUser('admin','123456');
+use test
+db.users.find_one()
+db.users.find({});
+db.questions.find({});
+db.questions.find_one();
+show collections
+questions.find_one
+questions.findone
+questions.findOne
+questions.find({})
+db.questions.find_one
+db.questions.findOne
+db.questions.find({})
+db.users.find({})
+db.questions.find({})
