@@ -1,0 +1,16 @@
+#contain{
+  background-color:white;
+}
+.navbar{
+  background-color:#EA7019
+}
+.container{padding:50px}
+#pColor{
+  color:black;
+}
+
+.btn{
+  margin-top:15px;
+  background-color:black;
+  text-align:center;
+}
