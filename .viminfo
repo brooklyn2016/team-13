@@ -60,18 +60,20 @@
 	n
 
 # File marks:
-'0  55  36  ~/team13/app.js
-'1  3  58  ~/team13/views/questions/questions.html
-'2  1  101  ~/team13/views/login/login.html
-'3  38  29  ~/team13/app.js
-'4  33  15  ~/team13/package.json
-'5  30  4  ~/team13/package.json
-'6  11  0  ~/team13/views/layout.jade
-'7  1  0  ~/team13/app.js
-'8  25  5  ~/team13/package.json
-'9  15  0  ~/team13/app.js
+'0  2  0  ~/team13/views/questions/english.js
+'1  55  36  ~/team13/app.js
+'2  3  58  ~/team13/views/questions/questions.html
+'3  1  101  ~/team13/views/login/login.html
+'4  38  29  ~/team13/app.js
+'5  33  15  ~/team13/package.json
+'6  30  4  ~/team13/package.json
+'7  11  0  ~/team13/views/layout.jade
+'8  1  0  ~/team13/app.js
+'9  25  5  ~/team13/package.json
 
 # Jumplist (newest first):
+-'  2  0  ~/team13/views/questions/english.js
+-'  1  0  ~/team13/views/questions/english.js
 -'  55  36  ~/team13/app.js
 -'  1  0  ~/team13/app.js
 -'  3  58  ~/team13/views/questions/questions.html
@@ -169,9 +171,48 @@
 -'  1  0  /etc/mongod.conf
 -'  24  7  /etc/mongod.conf
 -'  1  0  /etc/mongod.conf
--'  24  7  /etc/mongod.conf
 
 # History of marks within files (newest to oldest):
+
+> ~/team13/views/questions/english.js
+	"	2	0
+	^	2	0
+	.	2	0
+	+	17	296
+	+	1	14
+	+	1	108
+	+	2	69
+	+	3	84
+	+	4	87
+	+	5	79
+	+	7	140
+	+	6	360
+	+	8	116
+	+	9	68
+	+	10	99
+	+	11	60
+	+	12	74
+	+	13	51
+	+	14	307
+	+	15	169
+	+	16	117
+	+	17	295
+	+	17	0
+	+	16	0
+	+	15	0
+	+	14	0
+	+	13	0
+	+	12	0
+	+	11	0
+	+	10	0
+	+	9	0
+	+	8	0
+	+	7	0
+	+	6	0
+	+	5	0
+	+	4	0
+	+	3	0
+	+	2	0
 
 > ~/team13/app.js
 	"	55	36
