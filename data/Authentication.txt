@@ -1,7 +1,0 @@
-{"username":"JohnDoe1", "password":"test", "tier":"field","lang":"en","country":"nepal"}
-{"username":"JohnDoe2", "password":"test", "tier":"field","lang":"fr","country":"haiti"}
-{"username":"JohnDoe3", "password":"test", "tier":"field","lang":"hi","country":"india"}
-{"username":"GMSP", "password":"test", "tier":"org","lang":"en","country":"nepal"}
-{"username":"ASR", "password":"test", "tier":"org","lang":"fr","country":"haiti"}
-{"username":"Ashram", "password":"test", "tier":"org","lang":"hi","country":"india"}
-{"username":"FTS", "password":"test", "tier":"hq","lang":"en", "country":"USA"}
