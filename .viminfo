@@ -8,10 +8,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wq
 :q
 :w
 :sh
-:wq
 :q!
 
 # Search String History (newest to oldest):
@@ -23,40 +23,44 @@
 # Input Line History (newest to oldest):
 
 # Registers:
-"1	LINE	0
-		"sections": [
+""1	LINE	0
+	
 "2	LINE	0
-				"hi":"अधिकार शिक्षा:",
+	
 "3	LINE	0
-				"fr":"l'éducation des droits:",
+	
 "4	LINE	0
-				"hi":"तस्करी और गुलामी जनता में जागरूकता :",
+	
 "5	LINE	0
-				"fr":"La traite et l'esclavage sensibilisation du public:",
+		"sections": [
 "6	LINE	0
-				"hi":"कुल मिलाकर उपलब्धि: गुलामी इस स्थान में समाप्त कर दिया गया है।",
+				"hi":"अधिकार शिक्षा:",
 "7	LINE	0
-				"fr":"Résultat global: l'esclavage a été terminé à cet endroit.",
+				"fr":"l'éducation des droits:",
 "8	LINE	0
-	
+				"hi":"तस्करी और गुलामी जनता में जागरूकता :",
 "9	LINE	0
-	
-""-	CHAR	0
+				"fr":"La traite et l'esclavage sensibilisation du public:",
+"-	CHAR	0
 	,
 
 # File marks:
-'0  1  0  ~/team13/app.js
-'1  11  0  ~/team13/app.js
-'2  17  0  ~/team13/package.json
-'3  3  111  ~/sections.txt
-'4  1  121  ~/sections.txt
-'5  2  61  ~/sections.txt
-'6  8  3  ~/sec.txt
-'7  1  0  ~/sections.txt
-'8  3  112  ~/sections.txt
-'9  24  7  /etc/mongod.conf
+'0  2  3  ~/meta.txt
+'1  2  1  ~/team13/mongo.js
+'2  1  0  ~/team13/app.js
+'3  11  0  ~/team13/app.js
+'4  17  0  ~/team13/package.json
+'5  3  111  ~/sections.txt
+'6  1  121  ~/sections.txt
+'7  2  61  ~/sections.txt
+'8  8  3  ~/sec.txt
+'9  1  0  ~/sections.txt
 
 # Jumplist (newest first):
+-'  2  3  ~/meta.txt
+-'  1  0  ~/meta.txt
+-'  2  1  ~/team13/mongo.js
+-'  1  0  ~/team13/mongo.js
 -'  1  0  ~/team13/app.js
 -'  11  0  ~/team13/app.js
 -'  17  0  ~/team13/package.json
@@ -152,10 +156,22 @@
 -'  1  0  /etc/mongod.conf
 -'  8  3  ~/sec.txt
 -'  1  0  ~/sec.txt
--'  12  0  ~/sections.txt
--'  13  0  ~/sections.txt
 
 # History of marks within files (newest to oldest):
+
+> ~/meta.txt
+	"	2	3
+	.	5	0
+	+	5	112
+	+	2	0
+	+	3	0
+	+	4	0
+	+	5	0
+
+> ~/team13/mongo.js
+	"	2	1
+	.	2	0
+	+	2	0
 
 > ~/team13/app.js
 	"	1	0
