@@ -1,0 +1,3 @@
+{_id:"A","en":"Overall achievement- Slavery has been ended in this location.","fr":"Résultat global- l'esclavage a été rminé à cet endroit.","hi":"कुल मिलाकर उपलब्धि: गु-मी इस स्थान में समाप्त कर दिय} गया है।"}
+{_id:"B","en":"Trafficking and slavery public awareness-","fr":"La traite et l'esclavage sensibilisation du public-","hi":"तस्करी और गुलामी जनता में जागरू}ता :"}
+{_id:"C","en":"Rights education:","fr":"l'éducation des droits:","hi":"अधिकार शिक्}ा:"}
