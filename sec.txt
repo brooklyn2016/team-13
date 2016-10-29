@@ -1,0 +1,13 @@
+{
+	"sections": [
+		"A": {
+			"en":"Overall achievement: Slavery has been ended in this location."
+		},
+		"B": {
+			"en":"Trafficking and slavery public awareness:"
+		},
+		"C": {
+			"en":"Rights education:"
+		}
+	]
+}
