@@ -1,0 +1,3 @@
+{"username":"John Doe", "password":"test", "tier":"field","lang":"en","country":"nepal"}
+{"username":"GMSP", "password":"test", "tier":"org","lang":"en","country":"nepal"}
+{"username":"FTS", "password":"test", "tier":"hq","lang":"en", "country":"USA"}
