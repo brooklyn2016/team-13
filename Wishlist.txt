@@ -1,0 +1,19 @@
+1. SMS - Gateway
+Implement: using Ozeki-NG - SMS Gateway
+add users by txt/phone
+add database users
+
+2. OfflineAccessMode
+Implement: Android
+
+3. Universal Pictorial Language
+Implement: images (happy, neutral, sad) with underlying integer values of 1, 0, -1
+
+4. 3-year plan prediction
+Implement: based on previous data statistics, set up target goals for next 3 years
+
+5. Comments field
+Implement: connect to Google Translate API
+
+6. Adding new data fields/questions
+Implement: use a form to submit the data item for approal, which if approved will be added to the database and be available to all the countries.
